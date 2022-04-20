@@ -1,0 +1,27 @@
+body {
+    font-size 18px;
+    line-height: 1.5;
+}
+
+header, nav, body, main, footer {
+    margin: 1.25rem auto;
+    max-width: 760px;
+}
+
+header {
+    background-color: orange;
+    color: white;
+    text-align: center;
+    padding: 1.5rem;
+}
+
+main {
+    text-align: center;
+    background-color: beige;
+}
+
+footer {
+    background-color: orange;
+    color: white;
+    text-align: center;
+}
